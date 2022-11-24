@@ -1,0 +1,6 @@
+
+:root {
+    --colorToken3: #ffffff;    
+    --colorTest: #ffffff;    
+    --colorPlop: var(--colorTest);    
+}
